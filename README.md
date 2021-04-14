@@ -20,7 +20,7 @@ mysql:5.7
 
 ```
 $ git clone git@github.com:ssk9597/Docker-php-node-nginx-mysql.git
-$ cd docker-laravel
+$ cd Docker-php-node-nginx-mysql
 $ make install
 ```
 
